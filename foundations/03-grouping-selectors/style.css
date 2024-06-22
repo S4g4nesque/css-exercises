@@ -1,6 +1,7 @@
 .button-one{
     background-color: #000000;
     color: hsl(240, 100%, 100%);
+    font-weight: 700;
 }
 
 .button-two{
