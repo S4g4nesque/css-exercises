@@ -7,3 +7,13 @@
     color: rgb(0,0,255);
     font-size: 36px;
 }
+
+.line-three {
+    font-size: 24px;
+}
+
+#unique {
+    background-color: rgba(0,255,0,0.3);
+    font-size: 24px;
+    font-weight: 700; 
+}
