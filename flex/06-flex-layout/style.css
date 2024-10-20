@@ -44,9 +44,10 @@ ul {
 
 }
 
-.header {
+.header, .footer {
   display: flex;
   padding: 8px;
+  align-self: stretch;
   justify-content: space-between;
 }
 
@@ -58,13 +59,14 @@ ul {
 }
 
 .footer {
-  display: flex;
-  justify-content: space-between;
+ 
+  /* justify-content: space-around; */
   background-color: #eeeeee;
 }
 
 .right-links {
   display: flex;
+  
 }
 
 .left-links {
