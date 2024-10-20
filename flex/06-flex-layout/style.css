@@ -8,7 +8,7 @@ body {
   /* changes */
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-between ;
   align-items: center;
   align-content: center;
 }
@@ -22,6 +22,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 8px 16px;
 }
 
 input {
@@ -46,6 +47,7 @@ ul {
 
 .header, .footer {
   display: flex;
+  flex-direction: row;
   padding: 8px;
   align-self: stretch;
   justify-content: space-between;
@@ -56,6 +58,7 @@ ul {
   flex-direction: column;
   /* justify-content: center; */
   align-items: center;
+  gap: 16px;
 }
 
 .footer {
@@ -71,6 +74,7 @@ ul {
 
 .left-links {
   display: flex;
+  
 }
 
 /* changes */
