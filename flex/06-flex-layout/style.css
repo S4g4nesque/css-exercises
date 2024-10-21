@@ -35,6 +35,11 @@ input {
 .footer {
   display: flex;
   justify-content: space-between;
+  padding: 8px;
+}
+
+.footer {
+  background-color: #eeeeee;
 }
 
 ul {
