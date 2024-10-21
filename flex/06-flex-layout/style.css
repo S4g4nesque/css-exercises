@@ -60,6 +60,11 @@ a {
   flex-direction: column;
   align-self: center;
   align-items: center;
+  gap: 12px;
+}
+
+button {
+  padding: 8px 12px;
 }
 
 
