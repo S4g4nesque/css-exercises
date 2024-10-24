@@ -34,7 +34,7 @@ body {
 body {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  /* FROM SOLUTION justify-content: space-between; */
 }
 
 .middle-container {
@@ -79,6 +79,7 @@ a {
 .card {
   flex-basis: 300px;
   padding: 16px;
+  /* FROM SOLUTION width: 300px; */
 }
 
 .card-container {
