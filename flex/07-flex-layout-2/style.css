@@ -43,9 +43,29 @@ body {
   
 }
 
+/* sidebar contents start*/
+
 .sidebar {
   flex-shrink: 0;
+  
 }
+
+ul {
+  list-style: none;
+  padding: 16px;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: #eee;
+}
+
+/* sidebar contents end*/
 
 .card {
   flex-basis: 300px;
